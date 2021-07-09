@@ -6,6 +6,8 @@ public class Main {
 		System.out.printf("福島！？");
 		System.out.printf("福島！？");
 
+		System.out.printf("福島瑠依！！！");
+
 	}
 
 }
